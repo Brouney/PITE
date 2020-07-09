@@ -1,0 +1,768 @@
+{
+    "allstudents": [
+        {
+            "id": 0,
+            "name": "Peter",
+            "surname": "Parker",
+            "clas": "1"
+        },
+        {
+            "id": 1,
+            "name": "Wladimir",
+            "surname": "Poarker",
+            "clas": "2"
+        },
+        {
+            "id": 2,
+            "name": "Spike",
+            "surname": "Bike",
+            "clas": "1"
+        }
+    ],
+    "allclasses": [
+        {
+            "number": 1
+        },
+        {
+            "number": 2
+        },
+        {
+            "number": 3
+        }
+    ],
+    "allgrades": [
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 3
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 4
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 6
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 4
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 5
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 5
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 3
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 1
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 4
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 1
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 4
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 3
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "mark": 4
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 6
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 6
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 5
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 4
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 5
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 5
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 2
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "mark": 5
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 4
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 6
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 5
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 3
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 4
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 5
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 6
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 3
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "mark": 3
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 2
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 5
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 4
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 6
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 6
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "mark": 6
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 3
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 5
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 6
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 3
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 5
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 2
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 3
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 4
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 6
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "mark": 3
+        }
+    ],
+    "allattendance": [
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 1,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 0,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Math",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "English",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 0
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 1
+        },
+        {
+            "studid": 2,
+            "subject": "Physics",
+            "attend": 0
+        }
+    ],
+    "allsubjects": [
+        {
+            "name": "Math"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Physics"
+        }
+    ]
+}

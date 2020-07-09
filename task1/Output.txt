@@ -1,0 +1,12 @@
+speed: 0 m/s angle: -19 distance: 0.0 
+speed: 0 m/s angle: -16 distance: 0.0 
+speed: 0 m/s angle: -9 distance: 0.0 
+speed: -9 m/s angle: -9 distance: -9.0 
+speed: 4 m/s angle: -9 distance: -5.0 
+speed: 4 m/s angle: 4 distance: -1.0 
+speed: 4 m/s angle: -9 distance: 3.0 
+speed: 4 m/s angle: -3 distance: 7.0 
+speed: 4 m/s angle: -3 distance: 11.0 
+speed: 2 m/s angle: -3 distance: 13.0 
+speed: 20 m/s angle: -3 distance: 33.0 
+speed: 20 m/s angle: 8 distance: 53.0 
